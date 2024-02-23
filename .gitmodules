@@ -16,3 +16,27 @@
 [submodule "tools/seL4"]
 	path = tools/seL4
 	url = https://github.com/bluewww/seL4_tools.git
+[submodule "projects/util_libs"]
+	path = projects/util_libs
+	url = https://github.com/seL4/util_libs.git
+[submodule "projects/sel4runtime"]
+	path = projects/sel4runtime
+	url = https://github.com/sel4proj/sel4runtime.git
+[submodule "projects/sel4_projects_libs"]
+	path = projects/sel4_projects_libs
+	url = https://github.com/sel4proj/sel4_projects_libs
+[submodule "projects/seL4_libs"]
+	path = projects/seL4_libs
+	url = https://github.com/bluewww/seL4_libs.git
+[submodule "sel4bench"]
+	path = sel4bench
+	url = https://github.com/seL4/sel4bench.git
+[submodule "projects/sel4bench"]
+	path = projects/sel4bench
+	url = https://github.com/seL4/sel4bench.git
+[submodule "projects/musllibc"]
+	path = projects/musllibc
+	url = https://github.com/seL4/musllibc.git
+[submodule "projects/channel-bench"]
+	path = projects/channel-bench
+	url = https://github.com/bluewww/channel-bench.git
