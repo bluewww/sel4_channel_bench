@@ -1,0 +1,1 @@
+projects/channel-bench/easy-settings.cmake
