@@ -1,3 +1,18 @@
 [submodule "kernel"]
 	path = kernel
 	url = https://github.com/bluewww/seL4.git
+[submodule "tools/channel-bench"]
+	path = tools/channel-bench
+	url = https://github.com/sel4proj/channel-bench-tools.git
+[submodule "tools/nanopb"]
+	path = tools/nanopb
+	url = https://github.com/nanopb/nanopb
+[submodule "tools/opensbi"]
+	path = tools/opensbi
+	url = https://github.com/pulp-platform/opensbi.git
+[submodule "tools/riscv-pk"]
+	path = tools/riscv-pk
+	url = https://github.com/sel4proj/riscv-pk
+[submodule "tools/seL4"]
+	path = tools/seL4
+	url = https://github.com/bluewww/seL4_tools.git
